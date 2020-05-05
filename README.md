@@ -29,6 +29,13 @@ For each of the plays, data was collected on all places mentioned - both real an
 * time - the time of day or year when the mention occurs (optional)
 * sources - a number corresponding to an entry in a source table that lists the source of geographic or historical notes (optional)
 
+The version of the data used in the web map has one entry per place per play and boasts expanded geographical and historical notes. This set contains only real places. It is also available as a set of four CSV files (one for each play) on GitHub. The files are named as follows:
+* CO - The Cherry Orchard
+* TS - Three Sisters
+* UV - Uncle Vanya
+* SG - The Seagull
+
+
 ## License 
 Creative Commons Attribution-Noncommerical 
 https://creativecommons.org/licenses/by-nc/3.0/legalcode 
